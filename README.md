@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# Hi, I'm YOUR NAME 👋
+# Hi, I'm SUDHARSANSAIRAM 👋
 
-### Aspiring Software Developer | Java Backend | Frontend Development
+### Aspiring Software Developer | Java Backend | AI Enthusiast | Frontend Development
 
 Building practical projects, learning new technologies, and turning ideas into working applications.
 
@@ -132,8 +132,8 @@ Programs and exercises covering core Java, object-oriented programming, and data
 
 I'm always interested in connecting with developers, collaborating on projects, and exploring software engineering opportunities.
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sudharsansairam-pamu-015883258/)
+- 📧 Email: psudharsansairam@gmail.com
 - 💻 GitHub: [Explore my repositories](https://github.com/YOUR_USERNAME)
 
 <div align="center">
